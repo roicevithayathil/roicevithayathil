@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @roicevithayathil
 - I'm a Computer Science Engineering student at VIT-AP University, passionate about cloud computing, web development, and AI. Welcome to my GitHub profile!
 ### About Me
-- 🔭 I’m currently working on cloud architecture projects and deep learning applications.
 - 🌱 I’m currently learning advanced cloud technologies and AI-driven solutions.
 - 👯 I’m looking to collaborate on open source projects related to cloud computing and web development.
 - 💬 Ask me about cloud architecture, Python programming, and web development.
